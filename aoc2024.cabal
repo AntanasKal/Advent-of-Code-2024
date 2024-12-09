@@ -58,3 +58,78 @@ executable day3
                     , split
     hs-source-dirs:   src
     default-language: Haskell2010
+
+
+executable day4
+    main-is:          Day4.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:    base ^>=4.16.3.0
+                    , parsec
+                    , split
+    hs-source-dirs:   src
+    default-language: Haskell2010
+
+executable day5
+    main-is:          Day5.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:    base ^>=4.16.3.0
+                    , parsec
+                    , split
+    hs-source-dirs:   src
+    default-language: Haskell2010
+
+
+executable day6
+    main-is:          Day6.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:    base ^>=4.16.3.0
+                    , parsec
+                    , split
+                    , containers
+    hs-source-dirs:   src
+    default-language: Haskell2010
+
+executable day7
+    main-is:          Day7.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:    base ^>=4.16.3.0
+                    , parsec
+                    , split
+                    , containers
+    hs-source-dirs:   src
+    default-language: Haskell2010
+
+executable day8
+    main-is:          Day8.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:    base ^>=4.16.3.0
+                    , parsec
+                    , split
+                    , containers
+    hs-source-dirs:   src
+    default-language: Haskell2010
