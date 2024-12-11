@@ -29,7 +29,7 @@ executable day1
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
     hs-source-dirs:   src
     default-language: Haskell2010
 
@@ -41,7 +41,7 @@ executable day2
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
     hs-source-dirs:   src
     default-language: Haskell2010
 
@@ -53,7 +53,7 @@ executable day3
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
                     , parsec
                     , split
     hs-source-dirs:   src
@@ -68,7 +68,7 @@ executable day4
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
                     , parsec
                     , split
     hs-source-dirs:   src
@@ -82,7 +82,7 @@ executable day5
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
                     , parsec
                     , split
     hs-source-dirs:   src
@@ -97,7 +97,7 @@ executable day6
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
                     , parsec
                     , split
                     , containers
@@ -112,7 +112,7 @@ executable day7
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
                     , parsec
                     , split
                     , containers
@@ -127,7 +127,7 @@ executable day8
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.0.0
                     , parsec
                     , split
                     , containers
@@ -142,7 +142,7 @@ executable day9
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base ^>=4.16.0.0
                     , parsec
                     , split
                     , containers
